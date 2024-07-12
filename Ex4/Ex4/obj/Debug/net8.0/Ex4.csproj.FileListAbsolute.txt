@@ -1,0 +1,14 @@
+D:\UP\visual\Ex4\Ex4\bin\Debug\net8.0\Ex4.exe
+D:\UP\visual\Ex4\Ex4\bin\Debug\net8.0\Ex4.deps.json
+D:\UP\visual\Ex4\Ex4\bin\Debug\net8.0\Ex4.runtimeconfig.json
+D:\UP\visual\Ex4\Ex4\bin\Debug\net8.0\Ex4.dll
+D:\UP\visual\Ex4\Ex4\bin\Debug\net8.0\Ex4.pdb
+D:\UP\visual\Ex4\Ex4\obj\Debug\net8.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\UP\visual\Ex4\Ex4\obj\Debug\net8.0\Ex4.AssemblyInfoInputs.cache
+D:\UP\visual\Ex4\Ex4\obj\Debug\net8.0\Ex4.AssemblyInfo.cs
+D:\UP\visual\Ex4\Ex4\obj\Debug\net8.0\Ex4.csproj.CoreCompileInputs.cache
+D:\UP\visual\Ex4\Ex4\obj\Debug\net8.0\Ex4.dll
+D:\UP\visual\Ex4\Ex4\obj\Debug\net8.0\refint\Ex4.dll
+D:\UP\visual\Ex4\Ex4\obj\Debug\net8.0\Ex4.pdb
+D:\UP\visual\Ex4\Ex4\obj\Debug\net8.0\Ex4.genruntimeconfig.cache
+D:\UP\visual\Ex4\Ex4\obj\Debug\net8.0\ref\Ex4.dll
