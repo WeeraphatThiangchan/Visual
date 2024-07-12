@@ -1,0 +1,14 @@
+D:\UP\visual\Ex7\Ex7\bin\Debug\net8.0\Ex7.exe
+D:\UP\visual\Ex7\Ex7\bin\Debug\net8.0\Ex7.deps.json
+D:\UP\visual\Ex7\Ex7\bin\Debug\net8.0\Ex7.runtimeconfig.json
+D:\UP\visual\Ex7\Ex7\bin\Debug\net8.0\Ex7.dll
+D:\UP\visual\Ex7\Ex7\bin\Debug\net8.0\Ex7.pdb
+D:\UP\visual\Ex7\Ex7\obj\Debug\net8.0\Ex7.GeneratedMSBuildEditorConfig.editorconfig
+D:\UP\visual\Ex7\Ex7\obj\Debug\net8.0\Ex7.AssemblyInfoInputs.cache
+D:\UP\visual\Ex7\Ex7\obj\Debug\net8.0\Ex7.AssemblyInfo.cs
+D:\UP\visual\Ex7\Ex7\obj\Debug\net8.0\Ex7.csproj.CoreCompileInputs.cache
+D:\UP\visual\Ex7\Ex7\obj\Debug\net8.0\Ex7.dll
+D:\UP\visual\Ex7\Ex7\obj\Debug\net8.0\refint\Ex7.dll
+D:\UP\visual\Ex7\Ex7\obj\Debug\net8.0\Ex7.pdb
+D:\UP\visual\Ex7\Ex7\obj\Debug\net8.0\Ex7.genruntimeconfig.cache
+D:\UP\visual\Ex7\Ex7\obj\Debug\net8.0\ref\Ex7.dll
