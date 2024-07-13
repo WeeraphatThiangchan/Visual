@@ -1,0 +1,14 @@
+D:\UP\visual\week3\Ex.3\Ex.3\bin\Debug\net8.0\Ex.3.exe
+D:\UP\visual\week3\Ex.3\Ex.3\bin\Debug\net8.0\Ex.3.deps.json
+D:\UP\visual\week3\Ex.3\Ex.3\bin\Debug\net8.0\Ex.3.runtimeconfig.json
+D:\UP\visual\week3\Ex.3\Ex.3\bin\Debug\net8.0\Ex.3.dll
+D:\UP\visual\week3\Ex.3\Ex.3\bin\Debug\net8.0\Ex.3.pdb
+D:\UP\visual\week3\Ex.3\Ex.3\obj\Debug\net8.0\Ex.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\UP\visual\week3\Ex.3\Ex.3\obj\Debug\net8.0\Ex.3.AssemblyInfoInputs.cache
+D:\UP\visual\week3\Ex.3\Ex.3\obj\Debug\net8.0\Ex.3.AssemblyInfo.cs
+D:\UP\visual\week3\Ex.3\Ex.3\obj\Debug\net8.0\Ex.3.csproj.CoreCompileInputs.cache
+D:\UP\visual\week3\Ex.3\Ex.3\obj\Debug\net8.0\Ex.3.dll
+D:\UP\visual\week3\Ex.3\Ex.3\obj\Debug\net8.0\refint\Ex.3.dll
+D:\UP\visual\week3\Ex.3\Ex.3\obj\Debug\net8.0\Ex.3.pdb
+D:\UP\visual\week3\Ex.3\Ex.3\obj\Debug\net8.0\Ex.3.genruntimeconfig.cache
+D:\UP\visual\week3\Ex.3\Ex.3\obj\Debug\net8.0\ref\Ex.3.dll
