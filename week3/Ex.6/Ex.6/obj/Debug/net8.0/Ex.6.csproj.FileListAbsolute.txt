@@ -1,0 +1,14 @@
+D:\UP\visual\week3\Ex.6\Ex.6\bin\Debug\net8.0\Ex.6.exe
+D:\UP\visual\week3\Ex.6\Ex.6\bin\Debug\net8.0\Ex.6.deps.json
+D:\UP\visual\week3\Ex.6\Ex.6\bin\Debug\net8.0\Ex.6.runtimeconfig.json
+D:\UP\visual\week3\Ex.6\Ex.6\bin\Debug\net8.0\Ex.6.dll
+D:\UP\visual\week3\Ex.6\Ex.6\bin\Debug\net8.0\Ex.6.pdb
+D:\UP\visual\week3\Ex.6\Ex.6\obj\Debug\net8.0\Ex.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\UP\visual\week3\Ex.6\Ex.6\obj\Debug\net8.0\Ex.6.AssemblyInfoInputs.cache
+D:\UP\visual\week3\Ex.6\Ex.6\obj\Debug\net8.0\Ex.6.AssemblyInfo.cs
+D:\UP\visual\week3\Ex.6\Ex.6\obj\Debug\net8.0\Ex.6.csproj.CoreCompileInputs.cache
+D:\UP\visual\week3\Ex.6\Ex.6\obj\Debug\net8.0\Ex.6.dll
+D:\UP\visual\week3\Ex.6\Ex.6\obj\Debug\net8.0\refint\Ex.6.dll
+D:\UP\visual\week3\Ex.6\Ex.6\obj\Debug\net8.0\Ex.6.pdb
+D:\UP\visual\week3\Ex.6\Ex.6\obj\Debug\net8.0\Ex.6.genruntimeconfig.cache
+D:\UP\visual\week3\Ex.6\Ex.6\obj\Debug\net8.0\ref\Ex.6.dll
